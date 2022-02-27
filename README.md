@@ -1,9 +1,5 @@
 ### Hi there I'm Supriya 👋
 
-<!--
-**Ssupriya2000/Ssupriya2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Biju Patnaik University of Technology.
 - 🌱 I’m currently learning programming,web development,azure cloud.
