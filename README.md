@@ -8,5 +8,5 @@
 - 💬 Ask me about Technology.
 - 📫 How to reach me: supriyasamal102@gmail.com
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: i'm charming.
+- ⚡ Fun fact: i'm charming & thoughtful.
 -->
